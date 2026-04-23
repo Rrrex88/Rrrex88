@@ -95,7 +95,7 @@ display:
     max_items: 8
 
 notification:
-  enabled: false
+  enabled: true
   channels:
     feishu:
       webhook_url: ""
@@ -118,7 +118,7 @@ notification:
       topic: ""
       token: ""
     bark:
-      url: ""
+      url: "https://api.day.app/znFz8wiS24ABuPLatJqGJW"
     slack:
       webhook_url: ""
     generic_webhook:
