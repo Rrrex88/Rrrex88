@@ -138,7 +138,7 @@ storage:
 
 ai:
   model: "deepseek/deepseek-chat"
-  api_key: ""
+  api_key: "sk-319b1137212145f3859c7e670e523ee9"
   api_base: ""
   timeout: 120
   temperature: 0.3
